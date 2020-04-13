@@ -8,6 +8,7 @@ It is an analysis on a business case created by my Professor <a href="https://ww
 So, the analysis consists on building a regression model that predicts the revenue that each customer is going to pay in his/her first year using this platform.
 
 
+
 (Español)
 
 Este es mi primer proyecto usando Supervised Learning en Python (Machine Learning) (07/03/2020). En él, construyo algunos modelos de regresión usando distintos modelos lineares y “nearest neigbors” del paquete en Python, <a href="https://scikit-learn.org/stable/">Scikit-Learn</a>. (Modelos usados: <a href="https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares">OLS</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification">Ridge</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#lasso">Lasso</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression">ARD</a>, <a href="https://scikit-learn.org/stable/modules/neighbors.html">KNN</a> (non-standarized and standardized))
