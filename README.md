@@ -1,4 +1,4 @@
-# Unsupervised-Learning-Analysis-Apprentice-Chef-Inc.
+# Supervised-Learning-Analysis-Apprentice-Chef-Inc.
 (English)
 
 This is my first project using Supervised Learning in Python (Machine Learning) (03/07/2020). In it I build some regression models using different linear and nearest neighbors models from <a href="https://scikit-learn.org/stable/">Scikit-Learn</a> Library in Python. (Models used: <a href="https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares">OLS</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification">Ridge</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#lasso">Lasso</a>, <a href="https://scikit-learn.org/stable/modules/linear_model.html#bayesian-regression">ARD</a>, <a href="https://scikit-learn.org/stable/modules/neighbors.html">KNN</a> (non-standarized and standardized))
